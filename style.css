@@ -3,8 +3,6 @@
 .img_principal{
     width: 50%;
     alt: 30%;
-    margin: 3%%;
-
     
 }
 
@@ -14,11 +12,15 @@ footer {
     background-color: #f2f2f2;
     text-align: center;
     margin: 0% 0% 0%;
+    width: 100%;
+    alt: auto;
   }
 
   .container {
     display: flex;
     justify-content: space-around;
+    margin-top: 2%;
+    margin-bottom: 2%;
    
     
   }
