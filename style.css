@@ -3,8 +3,8 @@
 .img_principal{
     width: 50%;
     alt: 30%;
-    margin: 0%;
-    margin left: 0%;
+    margin: 3%%;
+
     
 }
 
@@ -17,15 +17,17 @@ footer {
 
   .container {
     display: flex;
-
-
+    justify-content: space-around;
+   
+    
   }
+
   .formacion{
-   flex: 1;
+    
    padding: 3%;
   }
+
  
 .experiencia{
-    flex: 2;
-    padding: 3%;
+padding: 3%;
 }
