@@ -3,9 +3,29 @@
 .img_principal{
     width: 50%;
     alt: 30%;
+    margin: 0%;
+    margin left: 0%;
+    
 }
+
+
+
 footer {
     background-color: #f2f2f2;
-    padding: 20px;
     text-align: center;
   }
+
+  .container {
+    display: flex;
+
+
+  }
+  .formacion{
+   flex: 1;
+   padding: 3%;
+  }
+ 
+.experiencia{
+    flex: 2;
+    padding: 3%;
+}
